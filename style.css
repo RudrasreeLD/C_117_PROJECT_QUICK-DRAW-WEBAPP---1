@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 217, 0);
+}
+
+#score {
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+#timer {
+    font-size: 25px;
+    float: right;
+    margin-right: 15px;
+}
+
+#sketch_to_be_drawn {
+    color: white;
+    font-size: 20px;
+}
+
+#your_sketch {
+    font-size: 20px;
+}
+
+#confidence {
+    font-size: 20px;
+}
